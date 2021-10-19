@@ -14,5 +14,6 @@ for i in range(40):
         forward(150)
         right(90)
 
+
 hideturtle()
 exitonclick()
